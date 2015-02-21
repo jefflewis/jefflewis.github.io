@@ -2,7 +2,7 @@
 title: Jeff Lewis
 email: mail@jeffreylewis.me
 description: > # this means to ignore newlines until "baseurl:"
-  leanring, every day.
+  learning, every day.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jeffreylewis.github.io" # the base hostname & protocol for your site
 twitter_username: jeffrey_allen
