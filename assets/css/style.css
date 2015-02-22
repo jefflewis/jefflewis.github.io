@@ -231,7 +231,11 @@ img.center {
 		width: inherit;
 		padding-left: 10px;
 		padding-right: 10px;
-		margin-left: 45px;
+		margin-left: 35px;
+	}
+
+	#header {
+		margin-left: 75px;
 	}
 
 	#sidebar {
