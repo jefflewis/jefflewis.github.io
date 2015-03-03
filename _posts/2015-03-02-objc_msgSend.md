@@ -8,15 +8,15 @@ I previously had a general sense of what message sending was doing in comparison
 
 When we send an object in Objective-C, 
 
-```obj-c
+{% highlight objective-c %}
 [foo addObject:bar];
-```
+{% endhighlight %}
 
 we are really instructing `foo` to look for a designated selector, which is associated with a number, such as 12.
 
-``` obj-c
+{% highlight objective-c %}
 objc_msgSend(foo, 12, bar);”
-```
+{% endhighlight %}
 
 Since `foo` in this case has an `isa` pointer to it's super's class, the super will look for the designated selector if `foo` declares no such selector. That is the beauty of this language; by not requiring the method to be declared by the class at compile time, we can dynamically generate a need portion after compilation. 
 
