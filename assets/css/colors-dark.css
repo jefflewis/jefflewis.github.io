@@ -5,12 +5,12 @@ html, body {
 
 a, a:visited, a:active {
 	color: #A57706;
-	border-color: #073642;
+	border-color: #1D1F21;
 }
 
 a:hover {
-	background-color: #073642;
-	border-color: #073642;
+	background-color: #1D1F21;
+	border-color: #1D1F21;
 	color: #A57706;
 }
 
@@ -23,8 +23,8 @@ h1 a, h1 a:visited, h1 a:active {
 }
 
 h1 a:hover {
-	background-color: #073642;
-	border-color: #073642;
+	background-color: #1D1F21;
+	border-color: #1D1F21;
 	color: #738A05;
 }
 
@@ -38,18 +38,18 @@ blockquote {
 
 #sidebar a:hover {
 	color: #A57706;
-	background-color: #073642;
+	background-color: #1D1F21;
 }
 
 #footer {
-	border-color: #073642;
+	border-color: #1D1F21;
 }
 
 
 
 /*** Pygments ***/
 .highlight{
-	background-color: #073642;
+	background-color: #1D1F21;
 	color: #042029;
 	border: 1px solid #042029;
     border-radius: 3px 3px 3px 3px;
