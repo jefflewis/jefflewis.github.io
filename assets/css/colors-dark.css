@@ -1,16 +1,16 @@
 html, body {
-	background-color: #002a35;
+	background-color: #1D1F21;
 	color: #839496;
 }
 
 a, a:visited, a:active {
 	color: #A57706;
-	border-color: #1D1F21;
+	border-color: #5A5B5C;
 }
 
 a:hover {
-	background-color: #1D1F21;
-	border-color: #1D1F21;
+	background-color: #5A5B5C;
+	border-color: #5A5B5C;
 	color: #A57706;
 }
 
@@ -23,8 +23,8 @@ h1 a, h1 a:visited, h1 a:active {
 }
 
 h1 a:hover {
-	background-color: #1D1F21;
-	border-color: #1D1F21;
+	background-color: #5A5B5C;
+	border-color: #5A5B5C;
 	color: #738A05;
 }
 
@@ -38,18 +38,18 @@ blockquote {
 
 #sidebar a:hover {
 	color: #A57706;
-	background-color: #1D1F21;
+	background-color: #5A5B5C;
 }
 
 #footer {
-	border-color: #1D1F21;
+	border-color: #5A5B5C;
 }
 
 
 
 /*** Pygments ***/
 .highlight{
-	background-color: #1D1F21;
+	background-color: #5A5B5C;
 	color: #042029;
 	border: 1px solid #042029;
     border-radius: 3px 3px 3px 3px;
