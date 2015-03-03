@@ -15,7 +15,7 @@ When we send an object in Objective-C,
 we are really instructing `foo` to look for a designated selector, which is associated with a number, such as 12.
 
 {% highlight objective-c %}
-objc_msgSend(foo, 12, bar);”
+objc_msgSend(foo, 12, bar);
 {% endhighlight %}
 
 Since `foo` in this case has an `isa` pointer to it's super's class, the super will look for the designated selector if `foo` declares no such selector. That is the beauty of this language; by not requiring the method to be declared by the class at compile time, we can dynamically generate a need portion after compilation. 
