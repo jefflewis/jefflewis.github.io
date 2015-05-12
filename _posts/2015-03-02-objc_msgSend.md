@@ -2,6 +2,7 @@
 layout: post
 title: objc_msgSend
 ---
+
 When I first started reading about Objective-C, one of the more interesting (and confusing!) parts was the concept of message sending vs. method calling. My first experience with an object-oriented language was Java, with it's more standard approach of called methods via [lookup tables](https://en.wikipedia.org/wiki/Lookup_table). 
 
 I previously had a general sense of what message sending was doing in comparison to a lookup table, but this example really cleared things up for me:
