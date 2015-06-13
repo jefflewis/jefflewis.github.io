@@ -3,7 +3,7 @@ layout: post
 title: Remember the basics
 ---
 
-I spend about thirty minutes this morning trying to think of a way to server up an angular app that hadn't been set up to be served with a tool like grunt. 
+I spent about thirty minutes this morning trying to think of a way to server up an angular app that hadn't been set up to be served with a tool like grunt. 
 
 After thinking for a few minutes after not finding help on Google, I had the idea to just `cd` into the app directory and start a simple python server with `python -m SimpleHTTPServer`. The simple solutions are sometimes the best. 
 
