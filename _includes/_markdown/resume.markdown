@@ -1,6 +1,6 @@
 ## [Profile](#profile)
 
-Full stack developer seeking a new position after the failure of a startup.
+Full stack developer seeking a new position.
 
 ## [Skills](#skills)
 
