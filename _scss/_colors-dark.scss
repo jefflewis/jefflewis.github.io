@@ -1,50 +1,54 @@
+$primary: hsl(114, 35%, 52%);
+$background: hsl(0, 2%, 12%);
+$text: hsl(356, 3%, 59%);
+
 html,
 body {
-  background-color: #1d1f21;
-  color: #839496;
+  background-color: $background;
+  color: $text;
 }
 
 a,
 a:visited,
 a:active {
-  color: #6ca347;
+  color: $primary;
   border-color: #2f3133;
 }
 
 a:hover {
   background-color: #2f3133;
   border-color: #2f3133;
-  color: #6ca347;
+  color: $primary;
 }
 
 h1,
 h2,
 h3 {
-  color: #6ca347;
+  color: $primary;
 }
 
 h1 a,
 h1 a:visited,
 h1 a:active {
-  color: #6ca347;
+  color: $primary;
 }
 
 h1 a:hover {
   background-color: #2f3133;
   border-color: #2f3133;
-  color: #6ca347;
+  color: $primary;
 }
 
 article h1 a.anchor {
-  color: #6ca347;
+  color: $primary;
 }
 
 blockquote {
-  border-color: #6ca347;
+  border-color: $primary;
 }
 
 #sidebar a:hover {
-  color: #6ca347;
+  color: $primary;
   background-color: #2f3133;
 }
 
@@ -87,7 +91,7 @@ blockquote {
   background: none !important;
 }
 .highlight .k {
-  color: #6ca347 !important;
+  color: $primary !important;
 }
 .highlight .o {
   color: #93a1a1 !important;
@@ -97,7 +101,7 @@ blockquote {
   color: #93a1a1 !important;
 }
 .highlight .ow {
-  color: #6ca347 !important;
+  color: $primary !important;
   font-weight: bold !important;
 }
 .highlight .gd {
@@ -147,14 +151,14 @@ blockquote {
   color: #aa0000;
 }
 .highlight .kc {
-  color: #6ca347 !important;
+  color: $primary !important;
   font-weight: bold !important;
 }
 .highlight .kd {
   color: #4b9cb1 !important;
 }
 .highlight .kp {
-  color: #6ca347 !important;
+  color: $primary !important;
   font-weight: bold !important;
 }
 .highlight .kr {
@@ -162,7 +166,7 @@ blockquote {
   font-weight: bold !important;
 }
 .highlight .kt {
-  color: #6ca347 !important;
+  color: $primary !important;
 }
 .highlight .n {
   color: #4b9cb1 !important;
@@ -171,7 +175,7 @@ blockquote {
   color: #4b9cb1 !important;
 }
 .highlight .nb {
-  color: #6ca347 !important;
+  color: $primary !important;
 }
 .highlight .nc {
   color: #d33682 !important;
@@ -183,7 +187,7 @@ blockquote {
   color: #800080;
 }
 .highlight .nl {
-  color: #6ca347 !important;
+  color: $primary !important;
 }
 .highlight .ne {
   color: #4b9cb1 !important;
@@ -222,22 +226,22 @@ blockquote {
   color: #bbbbbb;
 }
 .highlight .mf {
-  color: #6ca347 !important;
+  color: $primary !important;
 }
 .highlight .m {
-  color: #6ca347 !important;
+  color: $primary !important;
 }
 .highlight .mh {
-  color: #6ca347 !important;
+  color: $primary !important;
 }
 .highlight .mi {
-  color: #6ca347 !important;
+  color: $primary !important;
 }
 .highlight .mo {
   color: #009999;
 }
 .highlight .s {
-  color: #6ca347 !important;
+  color: $primary !important;
 }
 .highlight .sb {
   color: #d14;
@@ -246,10 +250,10 @@ blockquote {
   color: #d14;
 }
 .highlight .sd {
-  color: #6ca347 !important;
+  color: $primary !important;
 }
 .highlight .s2 {
-  color: #6ca347 !important;
+  color: $primary !important;
 }
 .highlight .se {
   color: #dc322f !important;
@@ -264,10 +268,10 @@ blockquote {
   color: #d14;
 }
 .highlight .sr {
-  color: #6ca347 !important;
+  color: $primary !important;
 }
 .highlight .s1 {
-  color: #6ca347 !important;
+  color: $primary !important;
 }
 .highlight .ss {
   color: #990073;

@@ -1,6 +1,6 @@
 ## [Profile](#profile)
 
-Full stack developer seeking a new position. Extensive experience in building software to solve complex business problems.
+Full stack developer seeking a new position. Extensive experience in building software for complex business problems.
 
 ## [Skills](#skills)
 
