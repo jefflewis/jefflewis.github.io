@@ -14,7 +14,7 @@ body {
   display: flex;
   flex: 1;
   flex-direction: column;
-  max-width: 800px;
+  max-width: $contentWidth;
   margin: auto;
 }
 ol,
@@ -132,6 +132,21 @@ h4 {
 
 tr {
   border-bottom: 1px solid #2f3133;
+}
+
+.subtitle {
+  display: flex;
+  flex: 1;
+  list-style-type: none;
+  list-style: none;
+  padding-inline-start: 0;
+  justify-content: space-between;
+  align-items: center;
+
+  li {
+    list-style-type: none;
+    display: inline;
+  }
 }
 
 /*** Useful Classes ***/

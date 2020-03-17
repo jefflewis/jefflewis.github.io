@@ -3,7 +3,11 @@ title: Jeff Lewis
 name: Jeff Lewis
 email: mail@jeffreylewis.me
 description: > # this means to ignore newlines until "baseurl:"
-  learning, every day.
+  <ul class="subtitle">
+    <li>♥&nbsp;Jesus</li>
+    <li><a href="https://instagram.com/chloeoutlawlewis">♥&nbsp;Family</a></li>
+    <li>♥&nbsp;Software</li>
+  </ul>
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://jeffreylewis.me" # the base hostname & protocol for your site
 twitter_username: jeffrey_allen

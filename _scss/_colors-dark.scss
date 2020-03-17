@@ -1,66 +1,111 @@
 $primary: hsl(114, 35%, 52%);
 $background: hsl(0, 2%, 12%);
-$text: hsl(356, 3%, 59%);
+$altBackground: hsl(0, 2%, 22%);
+$primaryText: hsl(0, 0%, 92%);
+$secondaryText: hsl(114, 35%, 52%);
+$tertiaryText: hsl(356, 3%, 59%);
+$titleText: hsl(114, 35%, 95%);
 
 html,
 body {
   background-color: $background;
-  color: $text;
+  color: $primaryText;
 }
 
 a,
 a:visited,
 a:active {
   color: $primary;
-  border-color: #2f3133;
+  border-color: $altBackground;
 }
 
 a:hover {
-  background-color: #2f3133;
-  border-color: #2f3133;
+  background-color: $altBackground;
+  border-color: $altBackground;
   color: $primary;
 }
 
-h1,
-h2,
+h1 {
+  color: $titleText;
+
+  a,
+  a:visited,
+  a:active,
+  a:hover {
+    color: $titleText;
+  }
+
+  a:hover {
+    background-color: $altBackground;
+    border-color: $altBackground;
+  }
+}
+
+h2 {
+  color: $secondaryText;
+  a,
+  a:visited,
+  a:active {
+    color: $secondaryText;
+  }
+}
+
 h3 {
+  color: $tertiaryText;
+  a,
+  a:visited,
+  a:active {
+    color: $tertiaryText;
+  }
+}
+
+a,
+a:visited,
+a:active {
   color: $primary;
 }
 
-h1 a,
-h1 a:visited,
-h1 a:active {
-  color: $primary;
+nav {
+  a,
+  a:visited,
+  a:active,
+  a:hover {
+    color: $tertiaryText;
+  }
+
+  a:hover {
+    background-color: $altBackground;
+  }
 }
 
-h1 a:hover {
-  background-color: #2f3133;
-  border-color: #2f3133;
-  color: $primary;
+.subtitle {
+  li {
+    a,
+    a:visited,
+    a:active,
+    a:hover {
+      color: $primaryText;
+    }
+  }
 }
 
-article h1 a.anchor {
-  color: $primary;
-}
+// article h1 a.anchor {
+//   color: $primary;
+// }
 
 blockquote {
   border-color: $primary;
 }
 
-#sidebar a:hover {
-  color: $primary;
-  background-color: #2f3133;
-}
-
 #footer {
-  border-color: #2f3133;
+  border-color: $altBackground;
 }
 
 /*** Pygments ***/
 .highlight {
-  background-color: #2f3133;
-  color: #042029;
-  border: 1px solid #042029;
+  background-color: $altBackground;
+  color: $tertiaryText;
+  border: 1px solid $altBackground;
   border-radius: 3px 3px 3px 3px;
   overflow: auto;
   padding: 6px 10px;
