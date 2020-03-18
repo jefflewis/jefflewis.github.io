@@ -17,15 +17,15 @@ Building business management software for inventory based companies as a full-st
 - Created a React Native inventory counting app for iOS and Android backed by two GraphQL APIs — Rails 5 for our core app and Rails 6 to connect to a custom Shopify App.
 - Created Electron desktop apps for point-of-sale, printing labels and weighing packages.
 
-### Software Engineer, Cisco, Carlsbad, CA — July 2014 – October 2015
+### Software Engineer, MaintenanceNet / Cisco, Carlsbad, CA — July 2014 – October 2015
 
 Built web apps for international service and contract renewal and quoting software, using a combination of HTML, Javascript, C#, CSS, SQL, XSLT, and a domain-specific language (DSL). Began mentoring and taught coworkers after only 1 month experience with this DSL.
 
-### Mechanical Engineer, NSWC crane, Fallbrook, CA — 2012–2014
+### Mechanical engineer, NSWC crane, Fallbrook, CA — September 2012 – July 2014
 
 Supported the Expeditionary Systems Evaluation Division of NSWC Crane located at NWS Seal Beach Detachment Fallbrook, CA in two distinct engineering roles: systems engineering for quality of USMC PM Ammo ammunition procurement items and test and evaluation engineering of PM Ammo ammunition test events.
 
-### Mechanical Engineer, US Army Corps of Engineers, Savannah, GA — 2010–2012
+### Mechanical Engineer, US Army Corps of Engineers, Savannah, GA — May 2010 – September 2012
 
 Oversaw all mechanical and plumbing construction projects for USACE at Ft. Stewart, GA. Provided engineering support to project engineers. Provided design support with biddability, constructibility, operability, and environmental reviews. Established and negotiated contract modifications.
 
