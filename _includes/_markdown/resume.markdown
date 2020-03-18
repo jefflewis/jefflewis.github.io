@@ -4,7 +4,7 @@ I’m a full-stack developer with extensive experience in building software solu
 
 ## [Skills](#skills)
 
-Comprehension of complex ideas, Ruby, Ruby on Rails, Typescript, React, React Native, GraphQL, PostgreSQL, REDIS, Elasticsearch, iOS Development, Objective-C, Swift, HTML, CSS, Electron, Javascript
+Comprehension of complex issues, Ruby, Ruby on Rails, Typescript, React, React Native, GraphQL, PostgreSQL, REDIS, Elasticsearch, iOS Development, Objective-C, Swift, HTML, CSS, Electron, Javascript
 
 ## [Experience](#experience)
 
@@ -35,8 +35,8 @@ North Carolina State University — B.S. Mechanical Engineering, 2010
 
 ## [References](#references)
 
-|                                                                              |                                  |
-| ---------------------------------------------------------------------------- | -------------------------------: |
-| Jimmy Baker<br/><span class="meta">CTO, Cohub, Inc.</span>                   | [(615) 653-3454](tel:6156533454) |
-| Steve Roche<br/><span class="meta">President, Cohub, Inc.</span>             | [(615) 293-0814](tel:6152930814) |
-| Darren Richards<br/><span class="meta">Software Engineer, Service Now</span> | [(937) 336-0400](tel:9373360400) |
+|                                                                                    |                                  |
+| ---------------------------------------------------------------------------------- | -------------------------------: |
+| Jimmy Baker<br/><span class="meta">CTO & Lead Developer, Cohub, Inc.</span>        | [(615) 653-3454](tel:6156533454) |
+| Steve Roche<br/><span class="meta">President, Cohub, Inc.</span>                   | [(615) 293-0814](tel:6152930814) |
+| Darren Richards<br/><span class="meta">Staff Software Engineer, Service Now</span> | [(937) 336-0400](tel:9373360400) |
