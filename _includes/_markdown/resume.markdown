@@ -1,10 +1,10 @@
 ## [Profile](#profile)
 
-I’m a full-stack developer with extensive experience in building software solutions for complex business problems. I am currently seeking a new position as part of a motivated team where I can share my passion for my work.
+I am a full-stack developer with extensive experience in building software solutions for complex business problems. I am currently seeking a new position as part of a motivated team where I can share my passion for my work.
 
 ## [Skills](#skills)
 
-Comprehension of complex issues, Ruby, Ruby on Rails, Typescript, React, React Native, GraphQL, PostgreSQL, REDIS, Elasticsearch, iOS Development, Objective-C, Swift, HTML, CSS, Electron, Javascript
+Comprehension of complex issues, Ruby, Ruby on Rails, Typescript, React, React Native, GraphQL, PostgreSQL, REDIS, Elasticsearch, iOS Development, Objective-C, Swift, HTML, CSS, Electron, Javascript, JQuery, Coffeescript
 
 ## [Experience](#experience)
 
@@ -21,13 +21,13 @@ Building business management software for inventory based companies as a full-st
 
 Built web apps for international service and contract renewal and quoting software, using a combination of HTML, Javascript, C#, CSS, SQL, XSLT, and a domain-specific language (DSL). Began mentoring and taught coworkers after only 1 month experience with this DSL.
 
-### Mechanical Engineer, NSWC Crane, Fallbrook, CA — September 2012 – July 2014
+### Mechanical Engineer, Naval Surface Warfare Center Crane, Fallbrook, CA — September 2012 – July 2014
 
 Supported the Expeditionary Systems Evaluation Division of NSWC Crane located at NWS Seal Beach Detachment Fallbrook, CA in two distinct engineering roles: systems engineering for quality of USMC PM Ammo ammunition procurement items and test and evaluation engineering of PM Ammo ammunition test events.
 
 ### Mechanical Engineer, US Army Corps of Engineers, Savannah, GA — May 2010 – September 2012
 
-Oversaw all mechanical and plumbing construction projects for USACE at Ft. Stewart, GA. Provided engineering support to project engineers. Provided design support with biddability, constructibility, operability, and environmental reviews. Established and negotiated contract modifications.
+Oversaw all mechanical and plumbing construction projects for US Army Corps of Engineers at Ft. Stewart, GA. Provided engineering support to project engineers. Provided design support with biddability, constructibility, operability, and environmental reviews. Established and negotiated contract modifications.
 
 ## [Education](#education)
 
