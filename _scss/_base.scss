@@ -41,7 +41,7 @@ table {
 /*** Basics ***/
 body {
   font-family: Helvetica, sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 1.7;
 }
 
@@ -114,15 +114,15 @@ abbr {
 }
 
 h1 {
-  font-size: 26px;
+  font-size: 28px;
   margin: 0 0 10px 0;
 }
 h2 {
-  font-size: 22px;
+  font-size: 24px;
   margin: 0 0 10px 0;
 }
 h3 {
-  font-size: 18px;
+  font-size: 20px;
   margin: 0 0 10px 0;
 }
 h4 {
@@ -132,6 +132,9 @@ h4 {
 
 tr {
   border-bottom: 1px solid #2f3133;
+  td {
+    width: 50%;
+  }
 }
 
 .subtitle {
