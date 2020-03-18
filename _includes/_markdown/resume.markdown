@@ -21,7 +21,7 @@ Building business management software for inventory based companies as a full-st
 
 Built web apps for international service and contract renewal and quoting software, using a combination of HTML, Javascript, C#, CSS, SQL, XSLT, and a domain-specific language (DSL). Began mentoring and taught coworkers after only 1 month experience with this DSL.
 
-### Mechanical engineer, NSWC crane, Fallbrook, CA — September 2012 – July 2014
+### Mechanical Engineer, NSWC Crane, Fallbrook, CA — September 2012 – July 2014
 
 Supported the Expeditionary Systems Evaluation Division of NSWC Crane located at NWS Seal Beach Detachment Fallbrook, CA in two distinct engineering roles: systems engineering for quality of USMC PM Ammo ammunition procurement items and test and evaluation engineering of PM Ammo ammunition test events.
 
