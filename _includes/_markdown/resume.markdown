@@ -4,17 +4,17 @@ I am a full-stack developer with extensive experience in building software solut
 
 ## [Skills](#skills)
 
-Comprehension of complex issues, Ruby, Ruby on Rails, Typescript, React, React Native, GraphQL, PostgreSQL, REDIS, Elasticsearch, iOS Development, Objective-C, Swift, HTML, CSS, Electron, Javascript, JQuery, Coffeescript
+Comprehension of complex issues, Ruby, Ruby on Rails, Typescript, React, React Native, GraphQL, PostgreSQL, REDIS, Elasticsearch, iOS Development, Objective-C, Swift, HTML, CSS, Electron, Javascript, JQuery, Coffeescript, Heroku, DigitalOcean, AWS
 
 ## [Experience](#experience)
 
 ### Software Developer, [Cohub Inc.](https://cohub.com), Nashville, TN — October 2015 – Present
 
-Building business management software for inventory based companies as a full-stack developer.
+Building mobile and cloud based business management software for inventory based companies as a full-stack developer.
 
-- Transitioned a Rails 4 API with Angular client app to a Rails 5 web app to a Rails 5 GraphQL API with several React and React Native clients. This multi-tenant web app is fully featured with capabilities including Ecommerce storefronts with a theme editor; sale, return, purchase, and RMA processing; invoicing with terms, penalties, and discounts; and tiered pricing for customers, groups, and items.
+- Transitioned a Rails 4 API with Angular client app to a Rails 5 web app to a Rails 5 GraphQL API with several React and React Native clients. This multi-tenant cloud based web app is fully featured with capabilities including Ecommerce storefronts with a theme editor; sale, return, purchase, and RMA processing; invoicing with terms, penalties, and discounts; and tiered pricing for customers, groups, and items. We scaled this application on Heroku and DigitalOcean, with connections to Elasticsearch, REDIS, and PostgreSQL to support our application's data and background tasks.
 - Led a project to create and maintain a React Native mobile point-of-sale app for iOS that included barcode scanning, credit card processing, item and order level discounts and promo codes, rewards programs, customer credit accounts, split payments, gift cards, returns, and exchanges.
-- Created a React Native inventory counting app for iOS and Android backed by two GraphQL APIs — Rails 5 for our core app and Rails 6 to connect to a custom Shopify App.
+- Created a React Native inventory counting app for iOS and Android backed by two GraphQL APIs — one on Rails 5 for our core app and one on Rails 6 to connect to a custom Shopify App.
 - Created Electron desktop apps for point-of-sale, printing labels and weighing packages.
 
 ### Software Engineer, MaintenanceNet / Cisco, Carlsbad, CA — July 2014 – October 2015
