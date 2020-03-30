@@ -19,7 +19,7 @@ Building mobile and cloud based business management software for inventory based
 
 ### Software Developer, Freelance, June 2013 – Present
 
-Developing iOS apps for consumers and clients. Project apps included a Bible reader, Photo Booth companion including backend server to handle image processing and storage, and a photo social networking app.
+Developing iOS apps for consumers and clients. Project apps include a Bible reader, Photo Booth companion including backend server to handle image processing and storage, and a photo social networking app.
 
 ### Software Engineer, MaintenanceNet / Cisco, Carlsbad, CA — July 2014 – October 2015
 
