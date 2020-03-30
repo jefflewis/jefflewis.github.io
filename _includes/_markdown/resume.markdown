@@ -17,6 +17,10 @@ Building mobile and cloud based business management software for inventory based
 - Created a React Native inventory counting app for iOS and Android backed by two GraphQL APIs — one on Rails 5 for our core app and one on Rails 6 to connect to a custom Shopify App.
 - Created Electron desktop apps for point-of-sale, printing labels and weighing packages.
 
+### Software Developer, Freelance, June 2013 – Present
+
+Developing iOS apps for consumers and clients. Project apps included a Bible reader, Photo Booth companion including backend server to handle image processing and storage, and a photo social networking app.
+
 ### Software Engineer, MaintenanceNet / Cisco, Carlsbad, CA — July 2014 – October 2015
 
 Built web apps for international service and contract renewal and quoting software, using a combination of HTML, Javascript, C#, CSS, SQL, XSLT, and a domain-specific language (DSL). Began mentoring and taught coworkers after only 1 month experience with this DSL.
