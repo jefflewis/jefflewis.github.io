@@ -4,7 +4,7 @@ I am a full-stack developer with extensive experience in building software solut
 
 ## [Skills](#skills)
 
-Comprehension of complex issues, Ruby, Ruby on Rails, Typescript, React, React Native, GraphQL, PostgreSQL, REDIS, Elasticsearch, iOS Development, Objective-C, Swift, HTML, CSS, Electron, Javascript, JQuery, Coffeescript, Heroku, DigitalOcean, AWS
+Comprehension of complex issues, Ruby, Ruby on Rails, Typescript, React, React Native, Redux, GraphQL, PostgreSQL, REDIS, Elasticsearch, iOS Development, Objective-C, Swift, HTML, CSS, Electron, Javascript, JQuery, Coffeescript, Heroku, DigitalOcean, AWS
 
 ## [Experience](#experience)
 
