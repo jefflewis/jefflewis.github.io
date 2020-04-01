@@ -23,6 +23,12 @@
   }
 }
 
+nav {
+  display: flex;
+  place-items: center;
+  flex-wrap: wrap;
+}
+
 .site-nav {
   float: right;
   line-height: 56px;
